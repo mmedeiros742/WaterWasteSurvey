@@ -1,0 +1,192 @@
+What gender you most identify with?
+	Mean: 0.516
+	Median: 1.000
+	Standard Deviation: 0.500
+	Variance: 0.250
+	Range: 1.000
+		Min: 0.000
+		Max: 1.000
+	Skewness: nan
+	Quartiles:
+		Q1: 0
+		Q2: 1
+	Cannot calculate quartiles.
+	Outliers: none
+	Cannot calculate correlation.
+
+
+How old are you?
+	Mean: 21.112
+	Median: 20.000
+	Standard Deviation: 5.822
+	Variance: 33.896
+	Range: 51.000
+		Min: 18.000
+		Max: 69.000
+	Skewness: 6.140
+	Quartiles:
+		Q1: 19
+		Q2: 20
+		Q3: 21
+	Outliers: [69.0]
+	How old are you? vs Average Shower Time = -0.230966
+
+
+What is your major?
+	Cannot calculate mean.
+	Cannot calculate median.
+	Cannot calculate standard deviation.
+	Cannot calculate variance.
+	Cannot calculate min, max, or range.
+	Cannot calculate skewness.
+	Cannot calculate quartiles.
+	Cannot calculate outliers.
+	Cannot calculate correlation.
+
+
+What year of school are you in?
+	Mean: 2.224
+	Median: 2.000
+	Standard Deviation: 0.932
+	Variance: 0.868
+	Range: 4.000
+		Min: 1.000
+		Max: 5.000
+	Skewness: 0.071
+	Quartiles:
+		Q1: 1
+		Q2: 2
+		Q3: 3
+	Outliers: none
+	What year of school are you in? vs Average Shower Time = -0.258084
+
+
+Are you a Resident (1) or Commuter (0)?
+	Mean: 0.510
+	Median: 1.000
+	Standard Deviation: 0.500
+	Variance: 0.250
+	Range: 1.000
+		Min: 0.000
+		Max: 1.000
+	Skewness: -0.041
+	Quartiles:
+		Q1: 0
+		Q2: 1
+		Q3: 1
+	Outliers: none
+	Are you a Resident (1) or Commuter (0)? vs Average Shower Time = 0.045231
+
+
+If you are a Resident, which hall do you reside in?
+	Cannot calculate mean.
+	Cannot calculate median.
+	Cannot calculate standard deviation.
+	Cannot calculate variance.
+	Cannot calculate min, max, or range.
+	Cannot calculate skewness.
+	Cannot calculate quartiles.
+	Cannot calculate outliers.
+	Cannot calculate correlation.
+
+
+Do you use the gym on campus or play any sports?
+	Mean: 0.459
+	Median: 0.000
+	Standard Deviation: 0.498
+	Variance: 0.248
+	Range: 1.000
+		Min: 0.000
+		Max: 1.000
+	Skewness: 0.164
+	Quartiles:
+		Q1: 0
+		Q2: 0
+		Q3: 1
+	Outliers: none
+	Do you use the gym on campus or play any sports? vs Average Shower Time = 0.081178
+
+
+Do you shower at the gym/other places besides your resident hall on campus?
+	Mean: 0.082
+	Median: 0.000
+	Standard Deviation: 0.274
+	Variance: 0.075
+	Range: 1.000
+		Min: 0.000
+		Max: 1.000
+	Skewness: 3.056
+	Quartiles:
+		Q1: 0
+		Q2: 0
+		Q3: 0
+	Outliers: [1, 1, 1, 1, 1, 1, 1, 1]
+	Do you shower at the gym/other places besides your resident hall on campus? vs Average Shower Time = -0.065537
+
+
+On average how many showers would you say you take a week?
+	Mean: 6.612
+	Median: 7.000
+	Standard Deviation: 2.735
+	Variance: 7.482
+	Range: 16.000
+		Min: 1.000
+		Max: 17.000
+	Skewness: 1.034
+	Quartiles:
+		Q1: 5
+		Q2: 7
+		Q3: 7
+	Outliers: [15.0, 17.0]
+	On average how many showers would you say you take a week? vs Average Shower Time = -0.011645
+
+
+How long would you say your average shower is in minutes?
+	Mean: 16.031
+	Median: 15.000
+	Standard Deviation: 9.238
+	Variance: 85.336
+	Range: 58.000
+		Min: 2.000
+		Max: 60.000
+	Skewness: 1.739
+	Quartiles:
+		Q1: 10
+		Q2: 15
+		Q3: 20
+	Outliers: [60.0, 45.0]
+	How long would you say your average shower is in minutes? vs Average Shower Time = 1.000000
+
+
+Are there circumstances where you take longer than the time stated above?(i.e. sickness,long day, etc.)
+	Mean: 0.847
+	Median: 1.000
+	Standard Deviation: 0.360
+	Variance: 0.130
+	Range: 1.000
+		Min: 0.000
+		Max: 1.000
+	Skewness: -1.927
+	Quartiles:
+		Q1: 1
+		Q2: 1
+		Q3: 1
+	Outliers: none
+	Are there circumstances where you take longer than the time stated above?(i.e. sickness,long day, etc.) vs Average Shower Time = 0.213098
+
+
+Do you think you could reduce the time of your shower by 1 (one) minute or more?
+	Mean: 0.827
+	Median: 1.000
+	Standard Deviation: 0.379
+	Variance: 0.143
+	Range: 1.000
+		Min: 0.000
+		Max: 1.000
+	Skewness: -1.725
+	Quartiles:
+		Q1: 1
+		Q2: 1
+		Q3: 1
+	Outliers: none
+	Cannot calculate correlation.

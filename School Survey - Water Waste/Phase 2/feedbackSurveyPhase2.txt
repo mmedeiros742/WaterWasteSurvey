@@ -1,0 +1,4 @@
+Feedback for Survey:
+	Remove fill-ins from most like gender
+	Make most options radial options and can only pick from a select set.
+		Like Major/Academic Program
